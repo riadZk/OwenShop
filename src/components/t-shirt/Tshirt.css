@@ -1,0 +1,109 @@
+.title{
+    padding-top: 20px;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Eater', cursive;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+}
+.SWIT{
+        background-color: rgb(0, 0, 0) !important;
+        max-width: 1800px;
+        height: 577px;
+}
+.imageA{
+    width: 300px !important;
+    border-radius: 10px;
+    margin: 120px 0 0 100px  !important;
+}
+#body{
+    background-color: black !important;
+}
+select{
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    margin: 40px 0 20px 0;
+}
+option{
+    background-color: black;
+    color: white;
+}
+.span-color2{
+    display: inline-block;
+    height: 2.2rem;
+    width: 2.2rem;
+    border-radius: 50%;
+    vertical-align: top;
+    margin-right: 20px;
+    position: relative;
+    bottom: 5px;
+    border: none;
+}
+.pe-2{
+    font-size: 30px;
+}
+.span6COLOR{
+    font-weight:700;
+    margin-right: 10px;
+}
+.span-number{
+    padding-left: 5px;
+}
+#guko{
+    display:none;
+    position:absolute;
+    top:100px;
+    right:160px;
+    background:white;
+    color:black;
+    width:700px;
+    height:400px;
+    border-radius: 20px;
+    padding-top: 40px;
+}
+.INPUT{
+    width: 300px !important;
+    margin: 20px 0 15px 20px;
+}
+.INPUT::placeholder{
+    display: flex;
+    justify-content: start;
+    color: black !important;
+}
+
+#guko p{
+    text-align: center;
+    font-weight: bold;
+}
+.inp{
+    width: 125px !important;
+    margin: 20px 10px 15px 35px;
+    color: black !important;
+}
+option{
+    background-color: white;
+    color: black;
+}
+.form-check{
+    margin: 20px 0 0 20px;
+    border: none;
+    box-shadow: none !important;
+}
+.btngg{
+    margin: 30px 0 0 14px !important;
+}
+#guko i{
+    position:absolute;
+    top:20px;
+    right:0;
+    background-color: white;
+}
+.bnt-ic{
+    background-color: transparent;
+}
+.image2{
+    border-radius: 10px;
+    margin: 90px 50px 50px 190px !important;
+}
+
+

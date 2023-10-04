@@ -1,0 +1,33 @@
+.nav2{
+    background-color: black;
+    height: 60px;
+    padding-bottom: -10px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+}
+.nav-link{
+    color: white !important;  
+    font-weight: bold;
+    font-size: 17px;
+    margin-right: -30px;   
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Eater', cursive;
+    font-family: 'Roboto Mono', monospace;
+}
+.nav-item{
+    padding-right: 50px;
+    font-weight: bold;
+}
+.img{
+    width: 80px !important;
+}
+.owen{
+    margin: 10px 0 0 15px;
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Eater', cursive;
+    font-weight: bold;
+}

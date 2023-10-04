@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tite{
+    padding-top: 20px;
+    padding-left: 10px;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Eater', cursive;
+    font-family: 'Roboto Mono', monospace;
+}
+.comment{
+    margin:60px 0 0 500px;
+}
+.comment h3{
+    color: #F2F2F2;
+    font-size: 45px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Eater', cursive; 
+    margin-bottom: 25px;
+
+}
+.comment p{
+    font-size: 20px;
+    font-weight: bold;
+    color: #F2F2F2;
+}
+.comment form button{
+    font-weight: bold;
+    font-size: 18px;
+    width: 90px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(44, 44, 44);
+    color: #F2F2F2;
+}
+.email{
+    font-weight: bold;
+    font-size: 18px;
+    width: 270px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(44, 44, 44);
+    margin-right: 20px;
+
+}
+input::placeholder{
+    padding-left: 20px;
+    color: #F2F2F2 !important;
+}
+.Link2{
+    text-decoration: none;
+    color: rgb(148, 146, 146);
+}
+.Link2:hover{
+    color: rgb(44, 44, 44);
+
+}
+.af{
+    background-color: black;
+    height: 450px;
+}

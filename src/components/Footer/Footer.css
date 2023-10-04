@@ -1,0 +1,16 @@
+.App-4{
+    height: 100px !important;
+}
+.conect{
+    background-color: black;
+}
+.conect-2{
+    height: 200px !important;
+    margin-top: -20px;
+}
+.text-reset{
+    text-decoration: none;
+}
+a .h5:hover{
+    transform: scale(1.2);
+}

@@ -1,0 +1,109 @@
+.cnx{
+    background-color:black;
+    width: auto;
+    height: 625px;
+}
+.cnx-2{
+    padding: 100px 0 0 500px;
+}
+.form{
+    padding-top: 100px;
+}
+.email{
+    font-weight: bold;
+    font-size: 18px;
+    width: 270px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(44, 44, 44);
+    margin-bottom: 20px;
+    color: white;
+}
+.email:hover{
+    background-color: rgb(44, 44, 44) !important;
+}
+.password{
+    font-weight: bold;
+    font-size: 18px;
+    width: 270px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(44, 44, 44);
+    margin-bottom: 20px;
+    color: white;
+
+}
+.button-form{
+    font-weight: bold;
+    font-size: 18px;
+    width: 270px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 20px;
+}
+.button-form:hover{
+    background-color: rgb(255, 255, 255);
+    color: gray;
+    box-shadow:
+    0 0 8px white,
+    0 0 8px white;
+}
+#facea{
+    text-decoration: none;
+    padding: 10px 22px;
+    border: none;
+    border-radius: 8px;
+    background: #476bb8;
+    color: white;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#facea:hover{
+    background-color: #3b63b9;
+}
+.link{
+    text-decoration: none;
+    padding: 10px 22px;
+    border: none;
+    border-radius: 8px;
+    background: #097ab6;;
+    color: white !important;  
+    margin-top: 20px;
+}
+.link:hover{
+    background-color: #046ea7;
+    color: white;
+}
+.para{
+    color: #cfc9c9;
+    margin-bottom: 20px;
+    margin-left: 60px;
+}
+.para2{
+    color: #cfc9c9;
+    margin-top: 20px; 
+}
+.spaan{
+    padding-left: 18px;
+}
+.para3{
+    margin-left: 100px;
+    color: #cfc9c9;
+}
+.owen2{
+    margin: 22px 0 0 40px;
+    color: #ffffff;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Eater', cursive;
+    font-weight: bold;
+}
+.icons{
+    position: absolute;
+    top: 20px;
+    left: 50px;
+}

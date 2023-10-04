@@ -1,0 +1,90 @@
+
+.image2{
+    border-radius: 10px;
+    margin: 90px 50px 50px 70px;
+    width: 600px;
+}
+
+.QUANTITY{
+    width: auto !important;
+    border: .1px solid rgb(196, 194, 194) !important;
+ 
+ }
+ .QUANTITY button{
+     padding-left: 20px;
+     text-align: center;
+     background-color: transparent;
+     color: white;
+     border: none;
+ }
+ .QUANTITY button span{
+     padding-right: 20px;
+     font-size: 22px;
+ }
+.Cart{
+    margin-left: 36px;
+    width: 200px;
+    height: 35px;
+    color: white;
+    background-color: transparent;
+    border: .1px solid rgb(196, 194, 194);
+    border-radius: 2px;
+    font-weight: bold;
+
+}
+.Cart:hover{
+    background-color:white !important;
+    color: black !important;
+}
+.shop{
+    margin:10px 0 0 36px;
+    width: 200px;
+    height: 35px;
+    color: white;
+    background-color:rgb(29, 125, 235);
+    border: none;
+    font-weight: bold;
+    border-radius: 2px;
+
+}
+.shop:hover{
+    background-color: rgb(4, 106, 223);
+}
+.gamer-titre{
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Eater', cursive;
+    font-family: 'Roboto Mono', monospace;
+}
+.span{
+    font-weight:700;
+}
+.pro{
+    height: 0 !important;
+}
+.bi{
+    width: 80px;
+}
+.icons{
+    position: absolute;
+    top: 20px;
+    left: 50px;
+}
+.link-icons{
+    color: white;
+    width: 60px;
+}
+.link-icons:hover{
+    color: white;
+}
+.footer-div{
+    margin-left: 120px;
+}
+.fa{
+    font-size:20px;
+}
+.para-footer{
+    font-size: 12px;
+    margin-left: 60px;
+    color: rgb(202, 197, 197);
+}

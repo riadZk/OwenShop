@@ -1,0 +1,70 @@
+
+
+.contact{
+    padding: 30px 0 0 400px;
+    background-color: black;
+    height: 700px;
+}
+.contact-h{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Eater', cursive;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+    padding-bottom: 50px;
+}
+.feedback-input{
+    margin-bottom: 40px;
+    font-weight: bold;
+    font-size: 18px;
+    width: 230px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(44, 44, 44);
+    margin-left: 10px;
+    color: white;
+}
+.feedback-input2{
+    margin-bottom: 40px;
+    font-weight: bold;
+    font-size: 18px;
+    width: 480px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(44, 44, 44);
+    margin-left: 10px;
+    color: white;
+}
+#textarea{
+    width: 480px;
+    height: 160px;
+}
+#textarea::placeholder{
+    color: white;
+    padding: 9px 0 0 15px;
+}
+.button-contact{
+    font-weight: bold;
+    font-size: 18px;
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    margin-left: 10px;
+
+}
+.button-contact:hover{
+    background-color: rgb(255, 255, 255);
+    color: gray;
+    box-shadow:
+    0 0 8px white,
+    0 0 8px white;
+}
+.icons{
+    position: absolute;
+    top: 20px;
+    left: 50px;
+}
