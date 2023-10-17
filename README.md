@@ -7,7 +7,7 @@ This project was developed using the following technologies:
   <li>MySQl</li>
 </ul>
 
-Clone the project and access the folde :
+Clone the project and access the folder :
 ```
  git init 
  git clone https://github.com/riadZk/owenshop.git
